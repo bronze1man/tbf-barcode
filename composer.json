@@ -1,0 +1,8 @@
+{
+    "name":"tbf/barcode",
+    "type": "library",
+    "autoload":{
+        "psr-0":{"Image_":"Image_Barcode2/"},
+        "classmap":["phpqrcode/"]
+    }
+}
